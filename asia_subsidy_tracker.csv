@@ -1,0 +1,23 @@
+country,iso3,gasoline_subsidized,diesel_subsidized,subsidy_type,annual_subsidy_cost_bn_usd,subsidy_pct_gdp,subsidy_description,last_price_change,pricing_mechanism,regulator
+Pakistan,PAK,True,True,Partial,2.8,1.1,Variable levy system; periodic adjustments,2026-03-15,Petroleum Levy + GST adjustments,OGRA
+India,IND,False,False,Deregulated,0.0,0.0,"Prices deregulated since 2014 (petrol), 2014 (diesel)",2026-03-01,Oil Marketing Companies set prices,MoPNG
+Bangladesh,BGD,True,True,Full,1.2,0.5,Government-set prices; BPC absorbs losses,2026-02-20,Fixed retail prices,BPC
+China,CHN,False,True,Ceiling,0.0,0.0,NDRC pricing mechanism with floor/ceiling,2026-03-10,Price adjustment every 10 working days,NDRC
+Japan,JPN,True,False,Partial,5.1,2.8,Subsidy to keep gasoline under ¥175/L,2026-03-20,Government subsidy to wholesalers,METI
+South Korea,KOR,False,False,None,0.0,0.0,Market-based pricing; temporary tax cuts ended,2026-01-15,Fuel tax cuts expired Dec 2024,MOTIE
+Thailand,THA,True,True,Partial,3.2,1.4,Oil Fund stabilization mechanism,2026-03-18,Oil Fund + excise tax reduction,EPPO
+Malaysia,MYS,True,True,Full,8.4,3.8,RON95 subsidized via BUDI95; diesel targeted since 2024,2026-03-23,BUDI95 program + diesel targeted subsidy,MoF
+Indonesia,IDN,True,True,Partial,12.5,5.2,Pertalite & Solar subsidized; Pertamax market-priced,2026-03-15,Pertamina-administered prices,MEMR
+Vietnam,VNM,False,True,Stabilization,0.0,0.0,Price stabilization fund mechanism,2026-03-01,Fuel price stabilization fund,MoIT
+Philippines,PHL,False,False,None,0.0,0.0,Fully deregulated since 1998 (Oil Deregulation Law),2026-03-15,Market determines prices,DOE
+Singapore,SGP,False,False,None,0.0,0.0,Fully market-based; high fuel taxes,2026-03-20,No intervention; carbon tax applies,EMA
+Myanmar,MMR,True,True,Partial,0.5,0.2,Military government controls some fuel distribution,2026-02-01,State-controlled pricing partial,MOEE
+Taiwan,TWN,True,False,Partial,1.8,0.8,CPC absorbs losses during price spikes,2026-03-10,CPC stabilization mechanism,MOEA
+Brunei,BRN,True,True,Full,0.4,0.2,Heavily subsidized as oil-producing nation,2026-01-01,State-subsidized since independence,JPKE
+Cambodia,KHM,False,False,None,0.0,0.0,Fully deregulated; market-based pricing,2026-03-15,Market pricing with minimal oversight,MME
+Laos,LAO,False,False,Stabilization,0.0,0.0,Price stabilization fund; periodic adjustments,2026-03-01,Government price cap mechanism,MEM
+Nepal,NPL,False,True,Partial,0.0,0.0,NOC sets prices; diesel sometimes subsidized,2026-03-10,NOC-administered pricing,NOC
+Mongolia,MNG,False,False,None,0.0,0.0,Market-based; dependent on Russian imports,2026-02-15,Free market pricing,MoE
+Afghanistan,AFG,False,False,None,0.0,0.0,Informal market; no government intervention,2026-01-01,Unregulated fuel market,N/A
+Timor-Leste,TLS,False,False,None,0.0,0.0,Market-based; oil fund for government revenue,2026-02-01,Petroleum Fund model,MoF
+Sri Lanka,LKA,False,False,Deregulated,0.0,0.0,Pricing formula linked to Singapore Platts,2026-03-15,Cost-reflective formula since 2023 crisis,CPC

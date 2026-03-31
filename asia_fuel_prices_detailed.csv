@@ -1,0 +1,23 @@
+country,sub_region,iso3,gasoline_usd_per_liter,diesel_usd_per_liter,lpg_usd_per_kg,avg_monthly_income_usd,fuel_affordability_index,oil_import_dependency_pct,refinery_capacity_kbpd,ev_adoption_pct,fuel_subsidy_active,subsidy_cost_bn_usd,co2_transport_mt,price_date,gasoline_pct_daily_wage
+Pakistan,South Asia,PAK,0.82,0.84,0.82,180,7.3,85,450,0.3,True,2.8,42.5,2026-03-23,13.7
+India,South Asia,IND,1.17,1.06,1.02,280,8.0,85,5340,2.1,False,0.0,320.0,2026-03-23,12.5
+Bangladesh,South Asia,BGD,1.05,0.91,0.95,160,5.1,100,33,0.1,True,1.2,15.8,2026-03-23,19.7
+Sri Lanka,South Asia,LKA,1.14,1.02,1.05,210,6.1,100,50,0.2,False,0.0,8.2,2026-03-23,16.3
+Nepal,South Asia,NPL,1.19,1.08,1.15,120,3.4,100,0,0.5,False,0.0,4.1,2026-03-23,29.8
+Afghanistan,South Asia,AFG,0.74,0.7,0.75,60,2.7,100,0,0.0,False,0.0,2.8,2026-03-23,37.0
+China,East Asia,CHN,1.24,1.08,0.78,960,25.8,72,17840,9.4,False,0.0,980.0,2026-03-23,3.9
+Japan,East Asia,JPN,1.28,1.15,1.15,3200,83.3,99,3520,3.2,True,5.1,185.0,2026-03-23,1.2
+South Korea,East Asia,KOR,1.42,1.26,0.96,2800,65.7,97,3330,9.8,False,0.0,98.0,2026-03-23,1.5
+Taiwan,East Asia,TWN,1.04,0.88,0.82,2200,70.5,98,1200,4.5,True,1.8,36.0,2026-03-23,1.4
+Mongolia,East Asia,MNG,0.98,0.95,0.88,450,15.3,100,0,0.1,False,0.0,3.2,2026-03-23,6.5
+Thailand,Southeast Asia,THA,1.18,1.04,0.72,580,16.4,62,1340,3.8,True,3.2,78.0,2026-03-23,6.1
+Malaysia,Southeast Asia,MYS,0.5,0.8,0.48,820,54.7,35,770,2.5,True,8.4,55.0,2026-03-23,1.8
+Indonesia,Southeast Asia,IDN,0.79,0.74,0.65,320,13.5,42,1080,0.4,True,12.5,145.0,2026-03-23,7.4
+Vietnam,Southeast Asia,VNM,1.01,0.88,0.78,280,9.2,60,360,0.6,False,0.0,42.0,2026-03-23,10.8
+Philippines,Southeast Asia,PHL,1.14,1.02,0.88,310,9.1,100,280,0.3,False,0.0,35.0,2026-03-23,11.0
+Singapore,Southeast Asia,SGP,1.88,1.52,1.1,4800,85.1,100,1500,5.2,False,0.0,17.0,2026-03-23,1.2
+Cambodia,Southeast Asia,KHM,1.1,1.02,0.9,180,5.5,100,0,0.0,False,0.0,4.5,2026-03-23,18.3
+Myanmar,Southeast Asia,MMR,0.92,0.85,0.78,110,4.0,55,50,0.0,True,0.5,9.8,2026-03-23,25.1
+Laos,Southeast Asia,LAO,1.15,1.01,0.95,160,4.6,100,0,0.0,False,0.0,2.2,2026-03-23,21.6
+Brunei,Southeast Asia,BRN,0.31,0.19,0.28,2200,236.8,0,165,0.2,True,0.4,2.5,2026-03-23,0.4
+Timor-Leste,Southeast Asia,TLS,1.22,1.18,1.05,120,3.3,100,0,0.0,False,0.0,0.4,2026-03-23,30.5

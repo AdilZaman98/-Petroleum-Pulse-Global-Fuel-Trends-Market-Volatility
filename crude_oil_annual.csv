@@ -1,0 +1,13 @@
+year,brent_avg_usd_bbl,wti_avg_usd_bbl,brent_yoy_change_pct,wti_yoy_change_pct,key_event,brent_wti_spread,avg_price_usd_bbl
+2015,52.39,49.19,-35.3,-30.5,OPEC price war; US shale boom,3.2,50.79
+2016,44.05,44.22,-15.9,-10.1,OPEC+ production cut agreement,-0.17,44.14
+2017,54.75,51.86,24.3,17.2,OPEC+ cuts take effect; demand recovery,2.89,53.3
+2018,71.34,64.58,30.3,24.6,US sanctions on Iran; Venezuela crisis,6.76,67.96
+2019,64.21,57.31,-10.0,-11.3,US-China trade war; global slowdown,6.9,60.76
+2020,41.84,38.58,-34.9,-32.7,COVID-19 pandemic; demand collapse,3.26,40.21
+2021,70.91,68.23,69.5,76.8,Post-COVID recovery; supply constraints,2.68,69.57
+2022,100.93,94.25,42.3,38.1,Russia-Ukraine war; energy crisis,6.68,97.59
+2023,82.62,77.7,-18.1,-17.6,China reopening; OPEC+ voluntary cuts,4.92,80.16
+2024,80.76,75.82,-2.3,-2.4,Middle East tensions; soft landing,4.94,78.29
+2025,69.5,64.27,-13.9,-15.2,Weak demand; oil surplus forecast (World Bank),5.23,66.88
+2026,92.4,73.6,33.0,14.5,Strait of Hormuz crisis; Iran conflict,18.8,83.0

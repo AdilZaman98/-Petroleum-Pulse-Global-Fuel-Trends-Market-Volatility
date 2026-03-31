@@ -1,0 +1,31 @@
+country,region,gasoline_tax_pct,diesel_tax_pct,vat_pct,excise_usd_per_liter,carbon_tax_active,total_tax_usd_per_liter,tax_burden_category
+Pakistan,South Asia,17.0,17.0,17.0,0.2,False,0.34,Low
+India,South Asia,52.0,47.0,0.0,0.42,False,0.61,High
+Bangladesh,South Asia,34.0,30.0,15.0,0.22,False,0.36,Moderate
+China,East Asia,26.0,24.0,13.0,0.22,False,0.32,Moderate
+Japan,East Asia,42.0,38.0,10.0,0.4,True,0.54,High
+South Korea,East Asia,52.0,38.0,10.0,0.52,False,0.74,High
+Thailand,Southeast Asia,27.0,15.0,7.0,0.19,False,0.32,Moderate
+Malaysia,Southeast Asia,0.0,0.0,0.0,0.0,False,0.0,Very Low
+Indonesia,Southeast Asia,5.0,5.0,11.0,0.06,False,0.04,Very Low
+Singapore,Southeast Asia,35.0,28.0,9.0,0.44,True,0.66,Moderate
+Philippines,Southeast Asia,18.0,16.0,12.0,0.14,False,0.21,Low
+Vietnam,Southeast Asia,32.0,28.0,8.0,0.22,False,0.32,Moderate
+Saudi Arabia,Middle East,15.0,5.0,15.0,0.06,False,0.09,Low
+UAE,Middle East,0.0,0.0,5.0,0.0,False,0.04,Very Low
+Iran,Middle East,0.0,0.0,9.0,0.0,False,0.0,Very Low
+Turkey,Middle East,59.0,42.0,20.0,0.52,False,0.71,Very High
+United States,North America,17.0,20.0,0.0,0.14,False,0.15,Low
+Canada,North America,33.0,30.0,5.0,0.28,True,0.4,Moderate
+Mexico,North America,20.0,18.0,16.0,0.16,False,0.23,Low
+Brazil,South America,28.0,25.0,0.0,0.24,False,0.32,Moderate
+United Kingdom,Europe,57.0,56.0,20.0,0.74,True,1.0,Very High
+Germany,Europe,55.0,47.0,19.0,0.72,True,1.0,High
+France,Europe,58.0,52.0,20.0,0.78,True,1.11,Very High
+Italy,Europe,56.0,48.0,22.0,0.76,True,1.05,Very High
+Netherlands,Europe,61.0,44.0,21.0,0.9,True,1.28,Very High
+Norway,Europe,55.0,50.0,25.0,0.82,True,1.14,High
+Sweden,Europe,55.0,52.0,25.0,0.78,True,0.98,High
+Australia,Oceania,33.0,33.0,10.0,0.31,False,0.39,Moderate
+Nigeria,Africa,0.0,0.0,7.5,0.0,False,0.0,Very Low
+South Africa,Africa,38.0,40.0,15.0,0.37,True,0.43,Moderate
